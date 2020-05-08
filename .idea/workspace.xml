@@ -387,12 +387,12 @@
       <workItem from="1588839369809" duration="8798000" />
       <workItem from="1588864412477" duration="2388000" />
       <workItem from="1588941637469" duration="937000" />
-      <workItem from="1588942662127" duration="8025000" />
+      <workItem from="1588942662127" duration="8274000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25568000" />
+    <option name="totallyTimeSpent" value="25817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -413,7 +413,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946752" visible="true" weight="0.4561644" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946752" visible="true" weight="0.50547945" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5005325" side_tool="true" weight="0.44752476" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Spring" order="13" />
