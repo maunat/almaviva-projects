@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/artemis-consumer/artemis-consumer.iml" filepath="$PROJECT_DIR$/artemis-consumer/artemis-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../artemis-consumer/artemis-consumer.iml" filepath="$PROJECT_DIR$/../artemis-consumer/artemis-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asn1-converter/asn1-converter.iml" filepath="$PROJECT_DIR$/asn1-converter/asn1-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asn1-converter/asn1-datatypes/asn1-datatypes.iml" filepath="$PROJECT_DIR$/asn1-converter/asn1-datatypes/asn1-datatypes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/asn1-converter/asn1-uper/asn1-uper.iml" filepath="$PROJECT_DIR$/asn1-converter/asn1-uper/asn1-uper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cassandra/cassandra.iml" filepath="$PROJECT_DIR$/cassandra/cassandra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/domain/domain.iml" filepath="$PROJECT_DIR$/domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../domain/domain.iml" filepath="$PROJECT_DIR$/../domain/domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/root.iml" filepath="$PROJECT_DIR$/root.iml" />
+    </modules>
+  </component>
+</project>
