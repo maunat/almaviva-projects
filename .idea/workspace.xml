@@ -21,6 +21,7 @@
       <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitmodules" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../archms/rmq-ms/.project" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../archms/rmq-ms/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../archms/rmq-ms/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
@@ -430,7 +431,17 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="root" type="b2602c69:ProjectViewProjectNode" />
+              <item name="root" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -528,12 +539,12 @@
       <workItem from="1588839369809" duration="8798000" />
       <workItem from="1588864412477" duration="2388000" />
       <workItem from="1588941637469" duration="937000" />
-      <workItem from="1588942662127" duration="8774000" />
+      <workItem from="1588942662127" duration="9025000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26317000" />
+    <option name="totallyTimeSpent" value="26568000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -575,13 +586,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/artemis-consumer/src/test/java/it/almaviva/NativeMeasureResourceIT.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cassandra/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
@@ -966,6 +970,9 @@
           <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitmodules">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/domain/src/main/java/it/almaviva/etsi_messages/CoopIts.java">
       <provider selected="true" editor-type-id="text-editor">
