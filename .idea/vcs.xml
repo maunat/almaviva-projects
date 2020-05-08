@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$/../.." vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/asn1-converter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asn1-converter/asn1-datatypes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asn1-converter/asn1-uper" vcs="Git" />
   </component>
 </project>

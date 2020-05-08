@@ -21,11 +21,6 @@
       <change afterPath="$PROJECT_DIR$/../test/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../test/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../WebContent/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/asn1-converter" beforeDir="false" afterPath="$PROJECT_DIR$/asn1-converter" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asn1-converter/LICENSE.txt" beforeDir="false" afterPath="$PROJECT_DIR$/asn1-converter/LICENSE.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asn1-converter/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/asn1-converter/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asn1-converter/asn1-datatypes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/asn1-converter/asn1-datatypes/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asn1-converter/asn1-uper/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/asn1-converter/asn1-uper/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../archms/rmq-ms/.project" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../archms/rmq-ms/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../archms/rmq-ms/.settings/org.eclipse.m2e.core.prefs" beforeDir="false" />
@@ -387,12 +382,12 @@
       <workItem from="1588839369809" duration="8798000" />
       <workItem from="1588864412477" duration="2388000" />
       <workItem from="1588941637469" duration="937000" />
-      <workItem from="1588942662127" duration="8274000" />
+      <workItem from="1588942662127" duration="8531000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25817000" />
+    <option name="totallyTimeSpent" value="26074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
